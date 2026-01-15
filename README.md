@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Tirmizi Kasim
 
-<!--
-**Tirmizik/Tirmizik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist focused on building data-driven and machine learning solutions.
 
-Here are some ideas to get you started:
+### 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Predictive Financial Analytics**  
+  Improving financial forecasting accuracy using advanced data analysis  
+  🔗 https://github.com/username/predictive-financial-analytics
+
+- 📈 **Customer Spending Analysis**  
+  Exploratory data analysis and visualization for business insights  
+  🔗 https://github.com/username/customer-spending-analysis
+
+- 🤖 **ML Pipeline with FastAPI & Docker**  
+  End-to-end machine learning deployment project  
+  🔗 https://github.com/username/ml-fastapi-docker
+
+### 🛠 Tech Stack
+
+Python • SQL • pandas • NumPy • scikit-learn • Docker • FastAPI
+
+📫 Reach me: LinkedIn | https://www.linkedin.com/in/tirmizi-kasim
