@@ -6,15 +6,10 @@ Data Scientist focused on building data-driven and machine learning solutions.
 
 - 📊 **Predictive Financial Analytics**  
   Improving financial forecasting accuracy using advanced data analysis  
-  🔗 https://github.com/username/predictive-financial-analytics
+  🔗 https://github.com/Tirmizik/predictive-financial-analytics
 
-- 📈 **Customer Spending Analysis**  
-  Exploratory data analysis and visualization for business insights  
-  🔗 https://github.com/username/customer-spending-analysis
-
-- 🤖 **ML Pipeline with FastAPI & Docker**  
-  End-to-end machine learning deployment project  
-  🔗 https://github.com/username/ml-fastapi-docker
+- **Develop Food delivery mobile app in React native**  
+  🔗 https://github.com/Tirmizik/mealsToGO
 
 ### 🛠 Tech Stack
 
