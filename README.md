@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tirmizi Kasim
 
-## UI/UX Designer (Product Designer ) and Junior Data Scientist
+## UI/UX Designer (Product Designer ) and Mobile App Developer
 
 UX/UI & Product Designer focused on user-centered digital products, currently learning Data Science and AI Engineering to design smarter, data-driven experiences.
 
