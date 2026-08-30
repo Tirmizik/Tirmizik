@@ -2,10 +2,10 @@
 
 ## UI/UX Designer (Product Designer ) and Mobile App Developer
 
-UX/UI & Product Designer focused on user-centered digital products, currently learning Data Science and AI Engineering to design smarter, data-driven experiences.
+UX/UI & Product Designer focused on user-centered digital products.
 
 - 🌍 I'm based in Ethiopia
-- 🖥️ See my portfolio at [UX/UI Design Portfolio](http://www.behance.net/tirmizikasim)
+- 🖥️ See my portfolio at [UI/UX Design Portfolio](http://www.behance.net/tirmizikasim)
 - ✉️ You can contact me at [tirmizi875@gmail.com](mailto:tirmizi875@gmail.com)
 - 🧠 I'm currently learning AI Engineering
 
